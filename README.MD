@@ -45,12 +45,19 @@ A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
 <h4>2.PATH: Location or Address of My Drive or Shared Drive to Download Torrent in it.</h4>
 <h4>3.SharedDrive_PATH: Path of Shared Drive to download files in it.</h4>
-<h4>4.Magnet_LINK: The link which provides source of files from where they had to be downloaded.</h4>
-<h4>5.Torrent_File: Here it is an exceptional Variable, since User will provide this.</h4>
+<h4>4.Magnet_LINK: The link which provides source of files from where they had to be downloaded.Here it is an exceptional Variable,since User will provide this.</h4>
+<h4>5.Torrent_File: The Record of Sources from where to download files,Here it is an exceptional Variable, since User will provide this.</h4>
 <h2>📑Packages Used</h2>
 <h4>1.BitTorrent Package</h4>
 <h4>2.LitTorrent Package</h4>
 <h4>3.Private Environment Config Files</h4>
+<h2>🎯Points to be Remembered🎯</h2>
+<h4>1.You can upload 10,000 <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/edit/main/README.MD#5torrent_file-the-record-of-sources-from-where-to-download-fileshere-it-is-an-exceptional-variable-since-user-will-provide-this">(.torrent) file</a> at a time to download your files to Google Drive</h4>
+<h4>2.You can Enter Unlimited <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/edit/main/README.MD#4magnet_link-the-link-which-provides-source-of-files-from-where-they-had-to-be-downloadedhere-it-is-an-exceptional-variablesince-user-will-provide-this">Magnet Link</a> to download files to your Google Drive</h4>
+<h4>3.You can use Google's CPU+GPU+TPU for getting more space: Just Click on Runtime>>Change Runtime Type>>Choose GPU and then TPU for more space.</h4>
+<h4>4.By Default you are connected to Google's CPU for doing anything in Google Collaboratory.</h4>
+<h4>5.You can transfer 750GB/Day because of restriction set by Google.</h4>
+<h4>6.Once all Storage got filled! and to get it back just close that Tab in which Colab is running and open it in a new Tab.</h4>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive">Original code</a>.🔒</h4>
 <h4> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
