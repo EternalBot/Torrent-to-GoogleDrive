@@ -11,35 +11,35 @@ A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to
 <h2>⚙️ How to Use ?</h2>
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Torrent%20to%20Google%20Drive.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Download the Setup file and Environment Config files from the code as shown in the Image.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/20.png" alt="20">
+<img src="/Img/20.png" alt="20">
 <h4> 3.Now run the Timeout preventer to prevent Google Colab from getting Time out!</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/21.png" alt="21">
+<img src="/Img/21.png" alt="21">
 <h4> 4.After that! Connect your Google account, for that choose "Mount" from the Drop down list as shown in the Image.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/22.png" alt="22">
+<img src="/Img/22.png" alt="22">
 <h4> 5.If you want then you can check that from which speed Google is going to download your Torrent Data as shown in the Image.</a></h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/23.png" alt="23">
+<img src="/Img/23.png" alt="23">
 <h3>🗂️Download Torrent to My Drive</h3>
 <p>For Shared Drive:<a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive#download-torrent-to-shared-drives"> Read Here</a></p>
 <h4> 6.To download Torrent in My Drive then choose anyone method provided under "Torrent to My Drive" that is Upload (.Torrent) File or by "Magnet Link" as shown in the Image.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/24.png" alt="24">
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/25.png" alt="25">
+<img src="/Img/24.png" alt="24">
+<img src="/Img/25.png" alt="25">
 <h4> 7.Now to upload (.Torrent) File or to Enter Magnet Link run that particular code as shown in the given Image below and click ENTER.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/26.png" alt="26">
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/27.png" alt="27">
+<img src="/Img/26.png" alt="26">
+<img src="/Img/27.png" alt="27">
 <h4> 8.Finally! Go to the Last section "Start Downlod to Google Drive" and Run the Code.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/28.png" alt="28">
+<img src="/Img/28.png" alt="28">
 <h5> <b><i>❗NOTE: You can Download files of max 342GB at once(By using Google CPU+GPU+TPU) and 750GB/Day because of the restriction set by Google❗</i></b></h5>
 <h3>📂Download Torrent to Shared Drives</h3>
 <h4> 1.First go to the Section "For Downloading Torrent to Shared Drive" and run the code to see the NAMES of Available Shared Drives in your Google Drive as shown in the Image.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/29.png" alt="29">
+<img src="/Img/29.png" alt="29">
 <h4> 2.Now copy the NAME of Shared Drive without (' ') in which you want to Download Torrent.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/30.png" alt="30">
+<img src="/Img/30.png" alt="30">
 <h4> 3.After that! Paste the name at place of "SHARED DRIVE NAME" and copy the complete path as shown in the Image.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/31.png" alt="31">
+<img src="/Img/31.png" alt="31">
 <h4> 4.Then Scroll Down! You will see two method to download Torrent to Google Drive that is through (.Torrent) File or by "Magnet Link" choose anyone method and click "Show Code" button!</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/32.png" alt="32">
+<img src="/Img/32.png" alt="32">
 <h4> 5.Now a code is visible to you! Just paste the PATH(which you copied above) at place of "PATH HERE" inside the " " and then Run the Code.</h4>
-<img src="https://thecaduceus.github.io/Torrent-to-GoogleDrive/Img/33.png" alt="33">
+<img src="/Img/33.png" alt="33">
 <h4> 6.After doing all this! Follow STEP 7 and STEP 8 (Written Above) to Complete your Work.</h4>
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
