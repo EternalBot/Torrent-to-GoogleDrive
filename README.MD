@@ -1,14 +1,14 @@
 # Torrent To Google Drive (UI Added!😊)
 A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to Google Drive using (.Torrent) File or by Magnet Link.
 
-## 🆕What's New?🆕
+<h2>🆕What's New?🆕</h2>
 <h4>1.Direct Google Account Login!🤩</h4>
 <h4>2.Added Timeout Preventer Advanced!😊</h4>
 <h4>3.Added PATH Generator for Shared Drive!😁</h4>
 <h4>4.Integreated Speed Tester!😎</h4>
 <h4>5.Added Shared Drives Support!😉</h4>
 
-## ⚙️ How to Use ? 
+<h2>⚙️ How to Use ?</h2>
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Torrent%20to%20Google%20Drive.ipynb">Open Code</a> </h4>
 <h4> 2.It is too Simple! Download the Setup file and Environment Config files from the code as shown in the Image.</h4>
 <img src="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Img/20.png">
