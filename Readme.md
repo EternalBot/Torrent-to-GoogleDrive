@@ -1,7 +1,7 @@
 # Torrent To Google Drive (UI Added!😊)
+<p><b>A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to Google Drive using (.Torrent) File or by Magnet Link.</b></p>
 <h4><b>⛔NOTICE: This Repository is now merged with Multi Cloud Transfer Tool to make it more effective and powerful! Please continue with new Repository. It just here for backend comfortability.</b></h4>
 <h4><b>New Repository: https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool</b></h4>
-<p>A Simple and User-Friendly Google Collab Notebook with UI to download Torrent to Google Drive using (.Torrent) File or by Magnet Link.</p>
 
 <h2>🆕What's New?🆕</h2>
 <h4>1.Direct Google Account Login!🤩</h4>
