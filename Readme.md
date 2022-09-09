@@ -12,7 +12,7 @@
 
 <h2>⚙️ How to Use ?</h2>
 <h4> 1.First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Torrent-to-GoogleDrive/blob/main/Torrent%20to%20Google%20Drive.ipynb">Open Code</a> </h4>
-<h4> <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb">Open Code</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=1">Open Code I U1</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=2">Open Code I U2</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=3">Open Code I U3</a>
+<h4> <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb">Open Code</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=1">Open Code I U1</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=2">Open Code I U2</a> I <a href="https://colab.research.google.com/github/EternalBot/Torrent2GoogleDrive/blob/main/Torrent2GoogleDrive.ipynb?authuser=3">Open Code I U3</a> </h4>
 <h4> 2.It is too Simple! Download the Setup file and Environment Config files from the code as shown in the Image.</h4>
 <p><img src="Img/20.png" alt="20" /></p>
 <h4> 3.Now run the Timeout preventer to prevent Google Colab from getting Time out!</h4>
